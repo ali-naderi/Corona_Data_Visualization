@@ -10,5 +10,5 @@ You find the datasets in the following page: https://ourworldindata.org/coronavi
 The full dataset can be downloaded directly from: https://covid.ourworldindata.org/data/full_data.csv. Use the last update of the dataset to visualize the last data.
 
 ### Needs any specific data analysis on COVID-19?
-Please feel free and let me know if you need any specific analysis from the datasets. 
+Please feel free and let me know if you need any specific statistical or predective analysis from the datasets. 
 ##### Helping the human being is our honor
